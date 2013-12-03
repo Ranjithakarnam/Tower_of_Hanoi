@@ -1,0 +1,3 @@
+g++ square.cpp -o square -lGL -lstdc++ -lc -lm -lglut -lGLU
+
+g++ canvas.cpp -o canvas -lglut
